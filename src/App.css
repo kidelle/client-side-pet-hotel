@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+
+.manage {
+    background-color: rgba(81, 144, 160, 0.527)
+}
+
+.dash {
+    background-color: rgba(195, 218, 224, 0.527)
+}
+
+.btns {
+  background-color: rgb(231, 226, 218)
+}
+
+.top {
+  background-color: rgb(238, 238, 222)
+}
